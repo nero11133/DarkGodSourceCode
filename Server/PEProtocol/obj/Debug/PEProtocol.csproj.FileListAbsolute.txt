@@ -1,0 +1,10 @@
+G:\Unity2017Project\DrakGod\Server\PEProtocol\bin\Debug\PEProtocol.dll
+G:\Unity2017Project\DrakGod\Server\PEProtocol\bin\Debug\PEProtocol.pdb
+G:\Unity2017Project\DrakGod\Server\PEProtocol\bin\Debug\PESocket.dll
+G:\Unity2017Project\DrakGod\Client\Assets\Scripts\Net\PEProtocol.dll
+G:\Unity2017Project\DrakGod\Client\Assets\Scripts\Net\PEProtocol.pdb
+G:\Unity2017Project\DrakGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CoreCompileInputs.cache
+G:\Unity2017Project\DrakGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CopyComplete
+G:\Unity2017Project\DrakGod\Server\PEProtocol\obj\Debug\PEProtocol.dll
+G:\Unity2017Project\DrakGod\Server\PEProtocol\obj\Debug\PEProtocol.pdb
+G:\Unity2017Project\DrakGod\Server\PEProtocol\obj\Debug\PEProtocol.csprojAssemblyReference.cache
